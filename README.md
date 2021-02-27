@@ -1,4 +1,4 @@
 # Bullworth Academy
 
 
-git clone 
+git clone https://github.com/Porfirio2002/bullworth.git
